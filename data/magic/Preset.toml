@@ -1,0 +1,44 @@
+slug = "magic"
+name = "Magical"
+creator = "RintaDev"
+description = "It looks nice idfk"
+tags = ["rintadev"]
+
+[variables]
+light = false
+accent = "#A800FC"
+background = "#000000"
+foreground = "#FFFFFF"
+
+block = "#1D1D1D"
+message-box = "#1f002e"
+mention = "rgba(251, 255, 0, 0.06)"
+
+success = "#65E572"
+warning = "#FAA352"
+error = "#F06464"
+hover = "rgba(0, 0, 0, 0.1)"
+
+[variables.scrollbar]
+thumb = "#A800FC"
+track = "transparent"
+
+[variables.primary]
+background = "#000000"
+header = "#000000"
+
+[variables.secondary]
+background = "#000000"
+foreground = "#DDDDDD"
+header = "#1A1A1A"
+
+[variables.tertiary]
+background = "#000000"
+foreground = "#AAAAAA"
+
+[variables.status]
+online = "#A800FC"
+away = "#ff00c3"
+busy = "#ff3866"
+streaming = "#977EFF"
+invisible = "#ffffff"
